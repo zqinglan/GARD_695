@@ -2,7 +2,6 @@
 
 **Overview**
 This project provides a comprehensive analysis of U.S. Treasury yield data, focusing on historical trends, yield curve characteristics, and regime changes. It features an interactive web dashboard that allows users to explore Treasury yield data, analyze historical Fed cutting cycles, and perform custom analyses.
-!Treasury Yield Dashboard
 
 **Features**
 Real-time Treasury Yield Data: Fetches and displays the most recent Treasury yield data
